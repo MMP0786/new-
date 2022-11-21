@@ -1,0 +1,16 @@
+#name{
+    margin: auto;
+    color: red;
+    transform: translate(2rem);
+    /* border: 1px solid red; */
+}
+#simple-button{
+    color: white;
+    background-color: red;
+    transform: translate(2rem);
+}
+#box{
+    box-shadow :0px 0px 0px .5px;
+    cursor: pointer;
+    margin: 1rem;
+}
